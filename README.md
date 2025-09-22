@@ -1,2 +1,2 @@
-# NivaranX
+# Aayuniq
 SIH project 
